@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AntlrTester.Json/AntlrTester.Json.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AntlrTester.Json.Tests/AntlrTester.Json.Tests.csproj" Id="53c984fa-4cf2-411c-8309-9df91879bc28" />
+  </Folder>
+</Solution>
