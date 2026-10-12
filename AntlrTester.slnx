@@ -1,8 +1,11 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="src/AntlrTester.Cql.Cli/AntlrTester.Cql.Cli.csproj" Id="a322d462-3bac-4717-b5b8-6962915b0cfb" />
+    <Project Path="src/AntlrTester.Cql/AntlrTester.Cql.csproj" Id="a07b3321-8b10-475a-9da4-87ca555b5737" />
     <Project Path="src/AntlrTester.Json/AntlrTester.Json.csproj" />
   </Folder>
   <Folder Name="/tests/">
+    <Project Path="tests/AntlrTester.Cql.Tests/AntlrTester.Cql.Tests.csproj" Id="541f7b2a-7d8d-4eab-9a4c-56a763166010" />
     <Project Path="tests/AntlrTester.Json.Tests/AntlrTester.Json.Tests.csproj" Id="53c984fa-4cf2-411c-8309-9df91879bc28" />
   </Folder>
 </Solution>

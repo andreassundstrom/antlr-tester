@@ -1,0 +1,6 @@
+ProductID;ProductName;Category;Price;StockQuantity;IsActive
+PROD-01;Trådlös Mus;Elektronik;349.00;120;true
+PROD-02;Mekanisk Tangentbord;Elektronik;1299.50;45;true
+PROD-03;Kaffemugg Keramik;Hem & Hushåll;89.00;0;false
+PROD-04;Träningsmatta 6mm;Sport & Fritid;249.00;85;true
+PROD-05;Vattenflaska Stål;Sport & Fritid;189.00;210;true
